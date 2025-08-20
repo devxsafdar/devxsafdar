@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devxsafdar
-- 👀 I’m interested in Game Development, Artificial Intelligence, Machine Learning
+- 👀 I’m interested in Game Development, Artificial Intelligence, Machine Learning, Embedded Systems
 - 🌱 I’m currently learning AI and Machine Learning, along with some Game Development
 - 💞️ I’m looking to collaborate on 2D and 3D Game Design
 
